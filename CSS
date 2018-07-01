@@ -1,1 +1,7 @@
+//draws the grid for the backround
+body {
+  background: hsla(209, 100%, 47%, 0.1);
+  background-image: radial-gradient(hsla(209, 100%, 47%, 1.00) 5%, transparent 0);
+  background-size: 30px 30px;
+}
 
